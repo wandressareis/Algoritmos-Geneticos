@@ -1,3 +1,6 @@
+# Implementação do Algoritmo Genético - Problema da N-Rainhas - Python3: https://youtu.be/qt85_CinKwo 
+# O algoritmo em questão consegue executar com no máximo 6 rainhas.
+
 import random
 
 def random_chromosome(size): # Fazendo cromossomos aleatórios
